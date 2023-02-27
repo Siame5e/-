@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Suletta Mercury hairs",
+  "Author": "landz",
+  "Version": "1.0",
+  "Description": "The Witch From Mercury hairs.",
+  "UniqueID": "landz Fan fiction",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "1.0"
+  }
+}
