@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Suletta Mercury rad",
+  "Author": "landz",
+  "Version": "4.11.3",
+  "Description": "The Witch From Mercury hairs.",
+  "UniqueID": "arter",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "4.11.3"
+  }
+}
